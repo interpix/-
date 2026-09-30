@@ -1,0 +1,6 @@
+{
+  "name": "3D Falling Gates Dimension",
+  "description": "A hypnotic 3D spatial experience featuring monumental sci-fi, torii, and celestial gates continuously descending from an infinite ceiling with physics, lighting, and camera perspectives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
